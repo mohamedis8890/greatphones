@@ -1,564 +1,564 @@
 {
-    "phones": [
-        {
-            "id": 0,
-            "name": "EOS Phone",
-            "vendor": {
-                "id": 0,
-                "name": "Kyocera"
-            },
-            "isConcept": true,
-            "description": "Kyocera’s EOS folding concept phone incorporates a flexible OLED screen, changing its form from a clamshell into something resembling a wallet or clutch-purse.",
-            "price": "569.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/kyocera_lexible.jpg",
-            "stars": "3.4"
-        },
-        {
-            "id": 1,
-            "name": "Piccolo phone",
-            "vendor": {
-                "id": 1,
-                "name": "Motorolla"
-            },
-            "isConcept": false,
-            "description": "The Piccolo Concept 1 cell phone received its design inspiration by Motorola, bringing a sexy and sleek concept that will definitely appeal to females.",
-            "price": "749.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/motorolla_piccolo.jpg",
-            "stars": "2.76"
-        },
-        {
-            "id": 2,
-            "name": "Multimedia Concept Phone",
-            "vendor": {
-                "id": 2,
-                "name": "Jakub Lekeš"
-            },
-            "isConcept": true,
-            "description": "Designer Jakub Lekeš tries to push the limits of phone designing with his concept. This phone has many useful features. A sliding touch screen QWERTY keyboard is concealed under the display and there is a 4.3 megapixel autofocus camera with digital zoom support on the back. The most interesting feature is the side of the phone that shows the running track.",
-            "price": "999.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/multimedia_concept_phone.jpg",
-            "stars": "4.2"
-        },
-        {
-            "id": 3,
-            "name": "Traveler Phone",
-            "vendor": {
-                "id": 3,
-                "name": "LG"
-            },
-            "isConcept": false,
-            "description": "Created by Andrew Zheng, the handset is a thin slider with a touch screen on board and a physical button keypad. The unusual shape of the LG Traveler phone was created for better grip and this aspect gets enhanced. Thanks to rubbers grips on the side.",
-            "price": "589.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_traveler.jpg",
-            "stars": "3.45"
-        },
-        {
-            "id": 4,
-            "name": "Intuit phone",
-            "vendor": {
-                "id": 23,
-                "name": "Eclipse"
-            },
-            "isConcept": false,
-            "description": "Eclipse Intuit phone by Eddie Goh. It has the entire basic feature we’ve come to expect from our mobiles: powerful 5 megapixel camera with built-in software for editing and uploading pictures to photo album, slide-out touch keyboard with tactile feedback and a nice big touch screen front and center. What makes this concept unique is parts of the phone are made from a chemically based thin solar skin to charge the battery when it’s exposed to any kind of light.",
-            "price": "459.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/eclipseintuit.jpg",
-            "stars": "3.28"
-        },
-        {
-            "id": 5,
-            "name": "The Ear-Phone",
-            "vendor": {
-                "id": 4,
-                "name": "Kambala"
-            },
-            "isConcept": false,
-            "description": "The Kambala is a mobile phone that transforms to an earphone as well. Pop the center piece and the earpiece clip pings out; clip this to your ear and you got a phone-earphone! Multilayered Polymer which hosts all the electronic components is used in its construction. A continuous flexi-screen with plenty of sensors makeup the surface and it has the ability to transmit the image on the inside of the phone to the outside.",
-            "price": "389.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/earphone.jpg",
-            "stars": "4.7"
-        },
-        {
-            "id": 6,
-            "name": "Flutter Phone",
-            "vendor": {
-                "id": 3,
-                "name": "LG"
-            },
-            "isConcept": false,
-            "description": "The LG Flutter will have an opportunity to be featured in a future blockbuster movie. The device opens up like a fan, as you can see in the image above and has a flexible OLED touch screen display that scrolls radically.",
-            "price": "789.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_flutter.jpg",
-            "stars": "3.6"
-        },
-        {
-            "id": 7,
-            "name": "Nanokia",
-            "vendor": {
-                "id": 5,
-                "name": "Nokia"
-            },
-            "isConcept": false,
-            "description": "The designer Mac Funamizu drew on the Nokia Aeon to design a phone he would like to have. Complete with Apple’s standard livery. Using a nondescript tactile feedback technology, its surface adapts to different purposes while the e-ink screen envelops the phone in graphics and information.",
-            "price": "659.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nanokia.jpg",
-            "stars": "3.85"
-        },
-        {
-            "id": 8,
-            "name": "Mobile Script",
-            "vendor": {
-                "id": 6,
-                "name": "Script"
-            },
-            "isConcept": false,
-            "description": "This phone/laptop packs a small front touch display plus a larger screen on the inside of the handset. The latter can be pulled out and become an even larger display turning the device into a mini laptop. The “Mobile Script” mobile phone does not require a power charge. Its case is covered with a nano material, converting the Sun light into the energy for your phone feed.",
-            "price": "789.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/mobile_script.jpg",
-            "stars": "4.1"
-        },
-        {
-            "id": 9,
-            "name": "Tag Phone",
-            "vendor": {
-                "id": 7,
-                "name": "NEC"
-            },
-            "isConcept": false,
-            "description": "An intriguing concept from NEC Design, this Tag Soft-Shell Mobile Phone shows how cumbersome carrying a phone in your pocket can be. Made of rubbery (shape-memorizing) material, the tag will bend and twist at your command.",
-            "price": "899.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nec_tag_concept_phone.jpg",
-            "stars": "4.56"
-        },
-        {
-            "id": 10,
-            "name": "Helix Bracelet Phone",
-            "vendor": {
-                "id": 3,
-                "name": "LG"
-            },
-            "isConcept": false,
-            "description": "Designer Rob Luna created an LG concept phone called Helix, a device that can also be used as a slap bracelet worn on the owner’s wrist. LG Helix comes with flexible circuits, a touch screen display and the concept device is made out of rubber and black stainless steel. You can attach the handset to the belt, through a magnetic charger and use the kinetic energy generated by the user to power up the cell phone.",
-            "price": "798.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/helix.jpg",
-            "stars": "4.87"
-        },
-        {
-            "id": 11,
-            "name": "Sparrow",
-            "vendor": {
-                "id": 1,
-                "name": "Motorolla"
-            },
-            "isConcept": false,
-            "description": "Motorola has come up with a new concept of Motorola Sparrow. A concept conceived to provide retail stores with a mobile point of sale device. The Motorola Sparrow is an all-in-one device that combines a scanner, RFID, point of sale (POS) system, communication and credit card reading capabilities. Equipped with touch sensitive areas, the front and back of the Motorola Sparrow makes it easy to navigate and use.",
-            "price": "784.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/motorolla_sparrow.jpg",
-            "stars": "3.86"
-        },
-        {
-            "id": 12,
-            "name": "Yuxa",
-            "vendor": {
-                "id": 8,
-                "name": "Veronica"
-            },
-            "isConcept": true,
-            "description": "Mexican designer Veronica Eugenia Rodriguez Ortiz created the Yuxa wearable cell phone concept. This is an eco-friendly phone featuring an OLED display and rechargeable battery, plus an innovative means of communication.",
-            "price": "459.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/yuxa_wearable_cellphone.jpg",
-            "stars": "4.58"
-        },
-        {
-            "id": 13,
-            "name": "Bracelet Phone",
-            "vendor": {
-                "id": 22,
-                "name": "Tao Ma"
-            },
-            "isConcept": true,
-            "description": "Designer Tao Ma has designed an inimitably different concept phone that has got the looks of a bracelet. The shiny gizmo vibrates when you receive a message and you can read the text by taking the bracelet off the wrist and pressing its precious looking keys.",
-            "price": "759.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/bracelet_phone.jpg",
-            "stars": "4.78"
-        },
-        {
-            "id": 14,
-            "name": "Nokia 888",
-            "vendor": {
-                "id": 5,
-                "name": "Nokia"
-            },
-            "isConcept": false,
-            "description": "New Nokia concept – Nokia 888. It uses liquid battery, speech recognition, flexible touch screen, touch sensitive body cover which lets it understand and adjust to the environment.",
-            "price": "879.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nokia888.jpg",
-            "stars": "4.89"
-        },
-        {
-            "id": 15,
-            "name": "Blue Bee Phone",
-            "vendor": {
-                "id": 9,
-                "name": "Kingyo"
-            },
-            "isConcept": true,
-            "description": "Another futuristic smart phone created by Kingyo. Blue Bee is a very interesting handset interface which is also appealing at the same time.",
-            "price": "485.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/blue_bee_phone.jpg",
-            "stars": "3.25"
-        },
-        {
-            "id": 16,
-            "name": "Relexer Cellphone",
-            "vendor": {
-                "id": 10,
-                "name": "Lu Yin"
-            },
-            "isConcept": true,
-            "description": "Designer Lu Yin has designed a mobile phone called “Relexer”. As its name suggest it also function as a medical gadget to review the health of the users. Integrating a thermometer that can be worn around the wrist like a bracelet, the cell phone measures the temperature and other drastic discrepancies in the body.",
-            "price": "579.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/relexer.jpg",
-            "stars": "3.95"
-        },
-        {
-            "id": 17,
-            "name": "HTC 1",
-            "vendor": {
-                "id": 11,
-                "name": "HTC"
-            },
-            "isConcept": false,
-            "description": "The concept designer Andrew Kim has designed the HTC 1 to be a premium Android device. It is designed to use machined brass to add strength to the phone. Some notable features of the concept include stereo speakers (located at the top and bottom of the phone), a kickstand which is actually the bottom portion of the casing, and the lofty concept of a built-in UV light which kills germs on the surface of the phone while you charge up.",
-            "price": "458.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/htc1.jpg",
-            "stars": "2.56"
-        },
-        {
-            "id": 18,
-            "name": "Nokia Morph",
-            "vendor": {
-                "id": 5,
-                "name": "Nokia"
-            },
-            "isConcept": false,
-            "description": "The Morph is a concept that demonstrates how future mobile devices might be stretchable and flexible, allowing the user to transform their mobile device into radically different shapes. It demonstrates the ultimate functionality that nanotechnology capable of delivering: flexible materials, transparent electronics and self-cleaning surfaces.",
-            "price": "1059.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nokia_morph.jpg",
-            "stars": "4.86"
-        },
-        {
-            "id": 19,
-            "name": "Connext",
-            "vendor": {
-                "id": 12,
-                "name": "James Zhang"
-            },
-            "isConcept": true,
-            "description": "Connext is an all-in-one, flexible smart device designed by James Zhang that can morph its form to fit the application that it assumes. Combining OLED touch-screen technology with E-paper flexibility, this device can switch to become a mobile phone, computer, multimedia player, watch, physical avatar etc.",
-            "price": "459.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/connext.jpg",
-            "stars": "3.52"
-        },
-        {
-            "id": 20,
-            "name": "BenQ Siemens",
-            "vendor": {
-                "id": 13,
-                "name": "BenQ"
-            },
-            "isConcept": false,
-            "description": "Latest BenQSiemens’s concept phone that wraps around your hand.",
-            "price": "378.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/benq_snake_phone.jpg",
-            "stars": "3.85"
-        },
-        {
-            "id": 21,
-            "name": "Folding Phone",
-            "vendor": {
-                "id": 3,
-                "name": "LG"
-            },
-            "isConcept": false,
-            "description": "This HiFi concept headset gives us a whole new way of using a cell phone. It’s a peculiar touch screen phone which the headset can be wrapped around the head to enjoy music and attend to call even when you are moving around.",
-            "price": "852.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_folding.jpg",
-            "stars": "4.10"
-        },
-        {
-            "id": 22,
-            "name": "Mooon Phone",
-            "vendor": {
-                "id": 14,
-                "name": "Sunman Kwon"
-            },
-            "isConcept": true,
-            "description": "Mooon concept phone designed by Sunman Kwon has a sleek, big and beautiful touch screen, and of course a camera. What’s special about Mooon is that at the bottom of this phone, you’ll find a Bluetooth headset, detachable when you need it.",
-            "price": "485.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/mooon_concept.jpg",
-            "stars": "3.58"
-        },
-        {
-            "id": 23,
-            "name": "Nokia Kinetic",
-            "vendor": {
-                "id": 5,
-                "name": "Nokia"
-            },
-            "isConcept": false,
-            "description": "Creative designer Jeremy Innes-Hopkins has an interesting concept phone called the Nokia Kinetic. An electromagnet in the base of the phone allows weight to be shifted which causes the phone to stand up when receiving a call.",
-            "price": "754.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nokia_kinetic.jpg",
-            "stars": "3.96"
-        },
-        {
-            "id": 24,
-            "name": "Exo Smartphone",
-            "vendor": {
-                "id": 3,
-                "name": "LG"
-            },
-            "isConcept": false,
-            "description": "LG Exo Smartphone designed by Benjamin Lotte is a good-looking phone with a high strength polymer exoskeleton for protecting the delicate internal components. The external skin is made of rubber that enhance ergonomics and increase strength. You can easily change the skin color to the color you desire.",
-            "price": "548.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_exo.jpg",
-            "stars": "4.12"
-        },
-        {
-            "id": 25,
-            "name": "Philips Fluid",
-            "vendor": {
-                "id": 15,
-                "name": "Philips"
-            },
-            "isConcept": false,
-            "description": "The Philips Fluid Smartphone designed by Brazilian designer Dinard da Mata looks like one of those (Slap Wrap) slap bracelets kids used to wear in the 90s. Flexibility is one thing that makes it differ from conventional smart phones. Made of OLED, it can keep all the features of a smart phone available while adding the extra advantage of turning into a bracelet.",
-            "price": "489.89",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/fluid_flexible_concept.jpg",
-            "stars": "4.23"
-        },
-        {
-            "id": 26,
-            "name": "Seabird",
-            "vendor": {
-                "id": 16,
-                "name": "Mozilla"
-            },
-            "isConcept": false,
-            "description": "Seabird is Mozilla Labs concept phone. The Seabird is a concept phone packed with cool features including integrated Pico Projector that can be used to project a virtual keyboard.",
-            "price": "385.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/seabird_concept.jpg",
-            "stars": "3.45"
-        },
-        {
-            "id": 27,
-            "name": "Nagisa Phone",
-            "vendor": {
-                "id": 16,
-                "name": "Mac Funamizu"
-            },
-            "isConcept": true,
-            "description": "Cool phone concept by Mac Funamizu. This smart phone has some incredible features. The dented keypad that gives the look of a wavy sea bed and the screen is designed in such way that it turns almost 180 degrees.",
-            "price": "645.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nagisa_phone.jpg",
-            "stars": "3.24"
-        },
-        {
-            "id": 28,
-            "name": "Glass Phone",
-            "vendor": {
-                "id": 16,
-                "name": "Mac Funamizu"
-            },
-            "isConcept": true,
-            "description": "Glass phone concept is also created by designer Mac Funamizu.",
-            "price": "1089.99",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/glass_phone.jpg",
-            "stars": "4.98"
-        },
-        {
-            "id": 29,
-            "name": "DYA Phone",
-            "vendor": {
-                "id": 17,
-                "name": "DYA"
-            },
-            "isConcept": false,
-            "description": "This new DYA phone brings a whole new meaning to the world slider. DYA phone has an unique design that uses diagonal cut and become compact when not in use. But it is large enough for any other basic function you need.",
-            "price": "448.95",
-            "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/dya_phone.jpg",
-            "stars": "3.12"
-        },
-        {
-            "id": 30,
-            "name": "Kambala",
-            "vendor": {
-                "id": 18,
-                "name": "Ilshat Garipov"
-            },
-            "isConcept": true,
-            "description": "This is a phone that is designed to fit straight into your ear, like some kind of phone-bluetooth-headset-Frankenstein-monster. The really cool thing about this concept is the idea of the phone camouflaging with your ear once it’s on there. It seems as if the entire phone would have to be equipped with some kind of image sensor layer that could identify the colors of your skin/hair. It doesn’t look like it would be very comfortable, but since it’s not a real phone, it’s hard to tell. Designed by Ilshat Garipov.",
-            "price": "784.85",
-            "imgUrl": "http://img.digitaltrends.com/image/kambala_phone2-640x640.jpg",
-            "stars": "4.32"
-        },
-        {
-            "id": 31,
-            "name": "iPhone Next G",
-            "vendor": {
-                "id": 19,
-                "name": "Apple"
-            },
-            "isConcept": false,
-            "description": "“Ermahgerd, it’s like Star Wars or something!!!1” Yes, this is is a hologram phone. Actually, no, it’s a projector phone, but it looks kind of like a hologram. This phone is much like the projecting keyboards that currently exist, except it’s a wristwatch phone that projects onto your palm. This is a cool idea aesthetically and in working concept. We’re not exactly sure how this phone would account for hand size, but we’re pretty sure any would-be developers could make some way for it to calibrate that. Designed by Samuel Lee Kwon.",
-            "price": "852.29",
-            "imgUrl": "http://img.digitaltrends.com/image/next_g2-768x768.jpg",
-            "stars": "4.53"
-        },
-        {
-            "id": 32,
-            "name": "Two-Sided Touch Screen",
-            "vendor": {
-                "id": 20,
-                "name": "Fujitsu"
-            },
-            "isConcept": false,
-            "description": "This phone doesn’t look like much, but it could be a breakthrough in touch screen technology. This phone has a see-through touchscreen that can be operated from both sides. This concept was presented by Fujitsu and NTT DoCoMo last year and is pretty unique. Say what you will about the interface, which looks a little shoddy, but it is a kind of technology that we have not often come across as a possibility for the future. We are under the impression that this kind of technology could make a serious impact in the future.",
-            "price": "745.59",
-            "imgUrl": "http://img.digitaltrends.com/image/docomo-fujitsu-dual-screen-touchscreen-768x768.jpg",
-            "stars": "3.69"
-        },
-        {
-            "id": 33,
-            "name": "Eco-Mobius",
-            "vendor": {
-                "id": 21,
-                "name": "ZTE"
-            },
-            "isConcept": false,
-            "description": "This phone could change the world as we know it. The iPhone 5s is out, do you have it? Do you stand in line to get every new iPhone right when it comes out? That’s fine; however, it’s not great for the environment if you’re just throwing away the old one. Not to mention, it’s really inconvenient to find places where you can properly dispose of phones. This concept was designed to combat this problem. In order to keep up with the quickly changing world of phones, ZTE has developed a phone that you could easily upgrade piece-by-piece. The phone would be divvied up into: LCD, core, camera, and battery sections. Is your phone not fast enough anymore? Well, you can just switch out the RAM. Certainly you can only take part-upgrading so far before you need a new device, but this piece of equipment could conceivable last you a few more years than how long you are currently keeping your phones.",
-            "price": "489.99",
-            "imgUrl": "http://img.digitaltrends.com/image/w020131029406860636562-768x768.jpg",
-            "stars": "3.98"
-        }
-    ],
-    "vendors": [
-        {
-            "id": 0,
-            "name": "Kyocera"
-        },
-        {
-            "id": 1,
-            "name": "Motorolla"
-        },
-        {
-            "id": 2,
-            "name": "Jakub Lekeš"
-        },
-        {
-            "id": 3,
-            "name": "LG"
-        },
-        {
-            "id": 4,
-            "name": "Kambala"
-        },
-        {
-            "id": 5,
-            "name": "Nokia"
-        },
-        {
-            "id": 6,
-            "name": "Script"
-        },
-        {
-            "id": 7,
-            "name": "NEC"
-        },
-        {
-            "id": 8,
-            "name": "Veronica"
-        },
-        {
-            "id": 9,
-            "name": "Kingyo"
-        },
-        {
-            "id": 10,
-            "name": "Lu Yin"
-        },
-        {
-            "id": 11,
-            "name": "HTC"
-        },
-        {
-            "id": 12,
-            "name": "James Zhang"
-        },
-        {
-            "id": 13,
-            "name": "BenQ"
-        },
-        {
-            "id": 14,
-            "name": "Sunman Kwon"
-        },
-        {
-            "id": 15,
-            "name": "Philips"
-        },
-        {
-            "id": 16,
-            "name": "Mozilla"
-        },
-        {
-            "id": 16,
-            "name": "Mac Funamizu"
-        },
-        {
-            "id": 17,
-            "name": "DYA"
-        },
-        {
-            "id": 18,
-            "name": "Ilshat Garipov"
-        },
-        {
-            "id": 19,
-            "name": "Apple"
-        },
-        {
-            "id": 20,
-            "name": "Fujitsu"
-        },
-        {
-            "id": 21,
-            "name": "ZTE"
-        },
-        {
-            "id": 22,
-            "name": "Tao Ma"
-        },
-        {
-            "id": 23,
-            "name": "Eclipse"
-        }
-    ],
-    "users": [
-        {
-            "id": 0,
-            "name": "Mo",
-            "email": "admin@greatphones.com",
-            "isAdmin": true,
-            "password": "123456"
-        },
-        {
-            "id": 1,
-            "name": "First User",
-            "email": "user1@example.com",
-            "isAdmin": false,
-            "password": "123456"
-        }
-    ]
+  "phones": [
+    {
+      "id": 0,
+      "name": "EOS Phone",
+      "vendor": {
+        "id": 0,
+        "name": "Kyocera"
+      },
+      "isConcept": true,
+      "description": "Kyocera’s EOS folding concept phone incorporates a flexible OLED screen, changing its form from a clamshell into something resembling a wallet or clutch-purse.",
+      "price": "569.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/kyocera_lexible.jpg",
+      "stars": "3.4"
+    },
+    {
+      "id": 1,
+      "name": "Piccolo phone",
+      "vendor": {
+        "id": 1,
+        "name": "Motorolla"
+      },
+      "isConcept": false,
+      "description": "The Piccolo Concept 1 cell phone received its design inspiration by Motorola, bringing a sexy and sleek concept that will definitely appeal to females.",
+      "price": "749.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/motorolla_piccolo.jpg",
+      "stars": "2.76"
+    },
+    {
+      "id": 2,
+      "name": "Multimedia Phone",
+      "vendor": {
+        "id": 2,
+        "name": "Jakub Lekeš"
+      },
+      "isConcept": true,
+      "description": "Designer Jakub Lekeš tries to push the limits of phone designing with his concept. This phone has many useful features. A sliding touch screen QWERTY keyboard is concealed under the display and there is a 4.3 megapixel autofocus camera with digital zoom support on the back. The most interesting feature is the side of the phone that shows the running track.",
+      "price": "999.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/multimedia_concept_phone.jpg",
+      "stars": "4.2"
+    },
+    {
+      "id": 3,
+      "name": "Traveler Phone",
+      "vendor": {
+        "id": 3,
+        "name": "LG"
+      },
+      "isConcept": false,
+      "description": "Created by Andrew Zheng, the handset is a thin slider with a touch screen on board and a physical button keypad. The unusual shape of the LG Traveler phone was created for better grip and this aspect gets enhanced. Thanks to rubbers grips on the side.",
+      "price": "589.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_traveler.jpg",
+      "stars": "3.45"
+    },
+    {
+      "id": 4,
+      "name": "Intuit phone",
+      "vendor": {
+        "id": 23,
+        "name": "Eclipse"
+      },
+      "isConcept": false,
+      "description": "Eclipse Intuit phone by Eddie Goh. It has the entire basic feature we’ve come to expect from our mobiles: powerful 5 megapixel camera with built-in software for editing and uploading pictures to photo album, slide-out touch keyboard with tactile feedback and a nice big touch screen front and center. What makes this concept unique is parts of the phone are made from a chemically based thin solar skin to charge the battery when it’s exposed to any kind of light.",
+      "price": "459.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/eclipseintuit.jpg",
+      "stars": "3.28"
+    },
+    {
+      "id": 5,
+      "name": "The Ear-Phone",
+      "vendor": {
+        "id": 4,
+        "name": "Kambala"
+      },
+      "isConcept": false,
+      "description": "The Kambala is a mobile phone that transforms to an earphone as well. Pop the center piece and the earpiece clip pings out; clip this to your ear and you got a phone-earphone! Multilayered Polymer which hosts all the electronic components is used in its construction. A continuous flexi-screen with plenty of sensors makeup the surface and it has the ability to transmit the image on the inside of the phone to the outside.",
+      "price": "389.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/earphone.jpg",
+      "stars": "4.7"
+    },
+    {
+      "id": 6,
+      "name": "Flutter Phone",
+      "vendor": {
+        "id": 3,
+        "name": "LG"
+      },
+      "isConcept": false,
+      "description": "The LG Flutter will have an opportunity to be featured in a future blockbuster movie. The device opens up like a fan, as you can see in the image above and has a flexible OLED touch screen display that scrolls radically.",
+      "price": "789.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_flutter.jpg",
+      "stars": "3.6"
+    },
+    {
+      "id": 7,
+      "name": "Nanokia",
+      "vendor": {
+        "id": 5,
+        "name": "Nokia"
+      },
+      "isConcept": false,
+      "description": "The designer Mac Funamizu drew on the Nokia Aeon to design a phone he would like to have. Complete with Apple’s standard livery. Using a nondescript tactile feedback technology, its surface adapts to different purposes while the e-ink screen envelops the phone in graphics and information.",
+      "price": "659.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nanokia.jpg",
+      "stars": "3.85"
+    },
+    {
+      "id": 8,
+      "name": "Mobile Script",
+      "vendor": {
+        "id": 6,
+        "name": "Script"
+      },
+      "isConcept": false,
+      "description": "This phone/laptop packs a small front touch display plus a larger screen on the inside of the handset. The latter can be pulled out and become an even larger display turning the device into a mini laptop. The “Mobile Script” mobile phone does not require a power charge. Its case is covered with a nano material, converting the Sun light into the energy for your phone feed.",
+      "price": "789.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/mobile_script.jpg",
+      "stars": "4.1"
+    },
+    {
+      "id": 9,
+      "name": "Tag Phone",
+      "vendor": {
+        "id": 7,
+        "name": "NEC"
+      },
+      "isConcept": false,
+      "description": "An intriguing concept from NEC Design, this Tag Soft-Shell Mobile Phone shows how cumbersome carrying a phone in your pocket can be. Made of rubbery (shape-memorizing) material, the tag will bend and twist at your command.",
+      "price": "899.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nec_tag_concept_phone.jpg",
+      "stars": "4.56"
+    },
+    {
+      "id": 10,
+      "name": "Helix Bracelet Phone",
+      "vendor": {
+        "id": 3,
+        "name": "LG"
+      },
+      "isConcept": false,
+      "description": "Designer Rob Luna created an LG concept phone called Helix, a device that can also be used as a slap bracelet worn on the owner’s wrist. LG Helix comes with flexible circuits, a touch screen display and the concept device is made out of rubber and black stainless steel. You can attach the handset to the belt, through a magnetic charger and use the kinetic energy generated by the user to power up the cell phone.",
+      "price": "798.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/helix.jpg",
+      "stars": "4.87"
+    },
+    {
+      "id": 11,
+      "name": "Sparrow",
+      "vendor": {
+        "id": 1,
+        "name": "Motorolla"
+      },
+      "isConcept": false,
+      "description": "Motorola has come up with a new concept of Motorola Sparrow. A concept conceived to provide retail stores with a mobile point of sale device. The Motorola Sparrow is an all-in-one device that combines a scanner, RFID, point of sale (POS) system, communication and credit card reading capabilities. Equipped with touch sensitive areas, the front and back of the Motorola Sparrow makes it easy to navigate and use.",
+      "price": "784.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/motorolla_sparrow.jpg",
+      "stars": "3.86"
+    },
+    {
+      "id": 12,
+      "name": "Yuxa",
+      "vendor": {
+        "id": 8,
+        "name": "Veronica"
+      },
+      "isConcept": true,
+      "description": "Mexican designer Veronica Eugenia Rodriguez Ortiz created the Yuxa wearable cell phone concept. This is an eco-friendly phone featuring an OLED display and rechargeable battery, plus an innovative means of communication.",
+      "price": "459.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/yuxa_wearable_cellphone.jpg",
+      "stars": "4.58"
+    },
+    {
+      "id": 13,
+      "name": "Bracelet Phone",
+      "vendor": {
+        "id": 22,
+        "name": "Tao Ma"
+      },
+      "isConcept": true,
+      "description": "Designer Tao Ma has designed an inimitably different concept phone that has got the looks of a bracelet. The shiny gizmo vibrates when you receive a message and you can read the text by taking the bracelet off the wrist and pressing its precious looking keys.",
+      "price": "759.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/bracelet_phone.jpg",
+      "stars": "4.78"
+    },
+    {
+      "id": 14,
+      "name": "Nokia 888",
+      "vendor": {
+        "id": 5,
+        "name": "Nokia"
+      },
+      "isConcept": false,
+      "description": "New Nokia concept – Nokia 888. It uses liquid battery, speech recognition, flexible touch screen, touch sensitive body cover which lets it understand and adjust to the environment.",
+      "price": "879.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nokia888.jpg",
+      "stars": "4.89"
+    },
+    {
+      "id": 15,
+      "name": "Blue Bee Phone",
+      "vendor": {
+        "id": 9,
+        "name": "Kingyo"
+      },
+      "isConcept": true,
+      "description": "Another futuristic smart phone created by Kingyo. Blue Bee is a very interesting handset interface which is also appealing at the same time.",
+      "price": "485.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/blue_bee_phone.jpg",
+      "stars": "3.25"
+    },
+    {
+      "id": 16,
+      "name": "Relexer Cellphone",
+      "vendor": {
+        "id": 10,
+        "name": "Lu Yin"
+      },
+      "isConcept": true,
+      "description": "Designer Lu Yin has designed a mobile phone called “Relexer”. As its name suggest it also function as a medical gadget to review the health of the users. Integrating a thermometer that can be worn around the wrist like a bracelet, the cell phone measures the temperature and other drastic discrepancies in the body.",
+      "price": "579.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/relexer.jpg",
+      "stars": "3.95"
+    },
+    {
+      "id": 17,
+      "name": "HTC 1",
+      "vendor": {
+        "id": 11,
+        "name": "HTC"
+      },
+      "isConcept": false,
+      "description": "The concept designer Andrew Kim has designed the HTC 1 to be a premium Android device. It is designed to use machined brass to add strength to the phone. Some notable features of the concept include stereo speakers (located at the top and bottom of the phone), a kickstand which is actually the bottom portion of the casing, and the lofty concept of a built-in UV light which kills germs on the surface of the phone while you charge up.",
+      "price": "458.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/htc1.jpg",
+      "stars": "2.56"
+    },
+    {
+      "id": 18,
+      "name": "Nokia Morph",
+      "vendor": {
+        "id": 5,
+        "name": "Nokia"
+      },
+      "isConcept": false,
+      "description": "The Morph is a concept that demonstrates how future mobile devices might be stretchable and flexible, allowing the user to transform their mobile device into radically different shapes. It demonstrates the ultimate functionality that nanotechnology capable of delivering: flexible materials, transparent electronics and self-cleaning surfaces.",
+      "price": "1059.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nokia_morph.jpg",
+      "stars": "4.86"
+    },
+    {
+      "id": 19,
+      "name": "Connext",
+      "vendor": {
+        "id": 12,
+        "name": "James Zhang"
+      },
+      "isConcept": true,
+      "description": "Connext is an all-in-one, flexible smart device designed by James Zhang that can morph its form to fit the application that it assumes. Combining OLED touch-screen technology with E-paper flexibility, this device can switch to become a mobile phone, computer, multimedia player, watch, physical avatar etc.",
+      "price": "459.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/connext.jpg",
+      "stars": "3.52"
+    },
+    {
+      "id": 20,
+      "name": "BenQ Siemens",
+      "vendor": {
+        "id": 13,
+        "name": "BenQ"
+      },
+      "isConcept": false,
+      "description": "Latest BenQSiemens’s concept phone that wraps around your hand.",
+      "price": "378.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/benq_snake_phone.jpg",
+      "stars": "3.85"
+    },
+    {
+      "id": 21,
+      "name": "Folding Phone",
+      "vendor": {
+        "id": 3,
+        "name": "LG"
+      },
+      "isConcept": false,
+      "description": "This HiFi concept headset gives us a whole new way of using a cell phone. It’s a peculiar touch screen phone which the headset can be wrapped around the head to enjoy music and attend to call even when you are moving around.",
+      "price": "852.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_folding.jpg",
+      "stars": "4.10"
+    },
+    {
+      "id": 22,
+      "name": "Mooon Phone",
+      "vendor": {
+        "id": 14,
+        "name": "Sunman Kwon"
+      },
+      "isConcept": true,
+      "description": "Mooon concept phone designed by Sunman Kwon has a sleek, big and beautiful touch screen, and of course a camera. What’s special about Mooon is that at the bottom of this phone, you’ll find a Bluetooth headset, detachable when you need it.",
+      "price": "485.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/mooon_concept.jpg",
+      "stars": "3.58"
+    },
+    {
+      "id": 23,
+      "name": "Nokia Kinetic",
+      "vendor": {
+        "id": 5,
+        "name": "Nokia"
+      },
+      "isConcept": false,
+      "description": "Creative designer Jeremy Innes-Hopkins has an interesting concept phone called the Nokia Kinetic. An electromagnet in the base of the phone allows weight to be shifted which causes the phone to stand up when receiving a call.",
+      "price": "754.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nokia_kinetic.jpg",
+      "stars": "3.96"
+    },
+    {
+      "id": 24,
+      "name": "Exo Smartphone",
+      "vendor": {
+        "id": 3,
+        "name": "LG"
+      },
+      "isConcept": false,
+      "description": "LG Exo Smartphone designed by Benjamin Lotte is a good-looking phone with a high strength polymer exoskeleton for protecting the delicate internal components. The external skin is made of rubber that enhance ergonomics and increase strength. You can easily change the skin color to the color you desire.",
+      "price": "548.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_exo.jpg",
+      "stars": "4.12"
+    },
+    {
+      "id": 25,
+      "name": "Philips Fluid",
+      "vendor": {
+        "id": 15,
+        "name": "Philips"
+      },
+      "isConcept": false,
+      "description": "The Philips Fluid Smartphone designed by Brazilian designer Dinard da Mata looks like one of those (Slap Wrap) slap bracelets kids used to wear in the 90s. Flexibility is one thing that makes it differ from conventional smart phones. Made of OLED, it can keep all the features of a smart phone available while adding the extra advantage of turning into a bracelet.",
+      "price": "489.89",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/fluid_flexible_concept.jpg",
+      "stars": "4.23"
+    },
+    {
+      "id": 26,
+      "name": "Seabird",
+      "vendor": {
+        "id": 16,
+        "name": "Mozilla"
+      },
+      "isConcept": false,
+      "description": "Seabird is Mozilla Labs concept phone. The Seabird is a concept phone packed with cool features including integrated Pico Projector that can be used to project a virtual keyboard.",
+      "price": "385.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/seabird_concept.jpg",
+      "stars": "3.45"
+    },
+    {
+      "id": 27,
+      "name": "Nagisa Phone",
+      "vendor": {
+        "id": 24,
+        "name": "Mac Funamizu"
+      },
+      "isConcept": true,
+      "description": "Cool phone concept by Mac Funamizu. This smart phone has some incredible features. The dented keypad that gives the look of a wavy sea bed and the screen is designed in such way that it turns almost 180 degrees.",
+      "price": "645.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nagisa_phone.jpg",
+      "stars": "3.24"
+    },
+    {
+      "id": 28,
+      "name": "Glass Phone",
+      "vendor": {
+        "id": 24,
+        "name": "Mac Funamizu"
+      },
+      "isConcept": true,
+      "description": "Glass phone concept is also created by designer Mac Funamizu.",
+      "price": "1089.99",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/glass_phone.jpg",
+      "stars": "4.98"
+    },
+    {
+      "id": 29,
+      "name": "DYA Phone",
+      "vendor": {
+        "id": 17,
+        "name": "DYA"
+      },
+      "isConcept": false,
+      "description": "This new DYA phone brings a whole new meaning to the world slider. DYA phone has an unique design that uses diagonal cut and become compact when not in use. But it is large enough for any other basic function you need.",
+      "price": "448.95",
+      "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/dya_phone.jpg",
+      "stars": "3.12"
+    },
+    {
+      "id": 30,
+      "name": "Kambala",
+      "vendor": {
+        "id": 18,
+        "name": "Ilshat Garipov"
+      },
+      "isConcept": true,
+      "description": "This is a phone that is designed to fit straight into your ear, like some kind of phone-bluetooth-headset-Frankenstein-monster. The really cool thing about this concept is the idea of the phone camouflaging with your ear once it’s on there. It seems as if the entire phone would have to be equipped with some kind of image sensor layer that could identify the colors of your skin/hair. It doesn’t look like it would be very comfortable, but since it’s not a real phone, it’s hard to tell. Designed by Ilshat Garipov.",
+      "price": "784.85",
+      "imgUrl": "http://img.digitaltrends.com/image/kambala_phone2-640x640.jpg",
+      "stars": "4.32"
+    },
+    {
+      "id": 31,
+      "name": "iPhone Next G",
+      "vendor": {
+        "id": 19,
+        "name": "Apple"
+      },
+      "isConcept": false,
+      "description": "“Ermahgerd, it’s like Star Wars or something!!!1” Yes, this is is a hologram phone. Actually, no, it’s a projector phone, but it looks kind of like a hologram. This phone is much like the projecting keyboards that currently exist, except it’s a wristwatch phone that projects onto your palm. This is a cool idea aesthetically and in working concept. We’re not exactly sure how this phone would account for hand size, but we’re pretty sure any would-be developers could make some way for it to calibrate that. Designed by Samuel Lee Kwon.",
+      "price": "852.29",
+      "imgUrl": "http://img.digitaltrends.com/image/next_g2-768x768.jpg",
+      "stars": "4.53"
+    },
+    {
+      "id": 32,
+      "name": "Two-Sided Touch Screen",
+      "vendor": {
+        "id": 20,
+        "name": "Fujitsu"
+      },
+      "isConcept": false,
+      "description": "This phone doesn’t look like much, but it could be a breakthrough in touch screen technology. This phone has a see-through touchscreen that can be operated from both sides. This concept was presented by Fujitsu and NTT DoCoMo last year and is pretty unique. Say what you will about the interface, which looks a little shoddy, but it is a kind of technology that we have not often come across as a possibility for the future. We are under the impression that this kind of technology could make a serious impact in the future.",
+      "price": "745.59",
+      "imgUrl": "http://img.digitaltrends.com/image/docomo-fujitsu-dual-screen-touchscreen-768x768.jpg",
+      "stars": "3.69"
+    },
+    {
+      "id": 33,
+      "name": "Eco-Mobius",
+      "vendor": {
+        "id": 21,
+        "name": "ZTE"
+      },
+      "isConcept": false,
+      "description": "This phone could change the world as we know it. The iPhone 5s is out, do you have it? Do you stand in line to get every new iPhone right when it comes out? That’s fine; however, it’s not great for the environment if you’re just throwing away the old one. Not to mention, it’s really inconvenient to find places where you can properly dispose of phones. This concept was designed to combat this problem. In order to keep up with the quickly changing world of phones, ZTE has developed a phone that you could easily upgrade piece-by-piece. The phone would be divvied up into: LCD, core, camera, and battery sections. Is your phone not fast enough anymore? Well, you can just switch out the RAM. Certainly you can only take part-upgrading so far before you need a new device, but this piece of equipment could conceivable last you a few more years than how long you are currently keeping your phones.",
+      "price": "489.99",
+      "imgUrl": "http://img.digitaltrends.com/image/w020131029406860636562-768x768.jpg",
+      "stars": "3.98"
+    }
+  ],
+  "vendors": [
+    {
+      "id": 0,
+      "name": "Kyocera"
+    },
+    {
+      "id": 1,
+      "name": "Motorolla"
+    },
+    {
+      "id": 2,
+      "name": "Jakub Lekeš"
+    },
+    {
+      "id": 3,
+      "name": "LG"
+    },
+    {
+      "id": 4,
+      "name": "Kambala"
+    },
+    {
+      "id": 5,
+      "name": "Nokia"
+    },
+    {
+      "id": 6,
+      "name": "Script"
+    },
+    {
+      "id": 7,
+      "name": "NEC"
+    },
+    {
+      "id": 8,
+      "name": "Veronica"
+    },
+    {
+      "id": 9,
+      "name": "Kingyo"
+    },
+    {
+      "id": 10,
+      "name": "Lu Yin"
+    },
+    {
+      "id": 11,
+      "name": "HTC"
+    },
+    {
+      "id": 12,
+      "name": "James Zhang"
+    },
+    {
+      "id": 13,
+      "name": "BenQ"
+    },
+    {
+      "id": 14,
+      "name": "Sunman Kwon"
+    },
+    {
+      "id": 15,
+      "name": "Philips"
+    },
+    {
+      "id": 16,
+      "name": "Mozilla"
+    },
+    {
+      "id": 24,
+      "name": "Mac Funamizu"
+    },
+    {
+      "id": 17,
+      "name": "DYA"
+    },
+    {
+      "id": 18,
+      "name": "Ilshat Garipov"
+    },
+    {
+      "id": 19,
+      "name": "Apple"
+    },
+    {
+      "id": 20,
+      "name": "Fujitsu"
+    },
+    {
+      "id": 21,
+      "name": "ZTE"
+    },
+    {
+      "id": 22,
+      "name": "Tao Ma"
+    },
+    {
+      "id": 23,
+      "name": "Eclipse"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Mo",
+      "email": "admin@greatphones.com",
+      "isAdmin": true,
+      "password": "123456"
+    },
+    {
+      "id": 1,
+      "name": "First User",
+      "email": "user1@example.com",
+      "isAdmin": false,
+      "password": "123456"
+    }
+  ]
 }

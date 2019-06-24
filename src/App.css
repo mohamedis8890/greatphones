@@ -57,6 +57,25 @@
   max-width: 40rem;
 }
 
+.py-5 {
+  padding-top: 0 !important;
+}
+
+.custom-navbar {
+  padding-bottom: 3rem;
+  padding-top: 1rem;
+}
+
+.card-price {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: green;
+}
+
+.checked {
+  color: orange;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;

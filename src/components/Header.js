@@ -3,12 +3,12 @@ import React from "react";
 export default function Header() {
   return (
     <React.Fragment>
-      <div class="collapse bg-dark" id="navbarHeader">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8 col-md-7 py-4">
-              <h4 class="text-white">About</h4>
-              <p class="text-muted">
+      <div className="collapse bg-dark" id="navbarHeader">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm-8 col-md-7 py-4">
+              <h4 className="text-white">About</h4>
+              <p className="text-muted">
                 Mobile phone business is one of the most rapid growing
                 industries. Not so long ago, the popular check phone was Nokia
                 3310 with mere basic functions: call, text messaging and the
@@ -22,15 +22,15 @@ export default function Header() {
                 phones are OLED screen and enhancement in flexibility.
               </p>
             </div>
-            <div class="col-sm-4 offset-md-1 py-4">
-              <ul class="list-unstyled">
+            <div className="col-sm-4 offset-md-1 py-4">
+              <ul className="list-unstyled">
                 <li>
-                  <a href="/login" class="text-white">
+                  <a href="/login" className="text-white">
                     Login
                   </a>
                 </li>
                 <li>
-                  <a href="/register" class="text-white">
+                  <a href="/register" className="text-white">
                     Register
                   </a>
                 </li>
@@ -39,14 +39,14 @@ export default function Header() {
           </div>
         </div>
       </div>
-      <div class="navbar navbar-dark bg-dark shadow-sm">
-        <div class="container d-flex justify-content-between">
-          <a href="/" class="navbar-brand d-flex align-items-center">
+      <div className="navbar navbar-dark bg-dark shadow-sm">
+        <div className="container d-flex justify-content-between">
+          <a href="/" className="navbar-brand d-flex align-items-center">
             <img src="phone.png" alt="logo" width="24" height="24" />
-            <strong style={{ marginLeft: "10px" }}>Greet Phones</strong>
+            <strong style={{ marginLeft: "10px" }}>Great Phones</strong>
           </a>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-toggle="collapse"
             data-target="#navbarHeader"
@@ -54,7 +54,7 @@ export default function Header() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon" />
+            <span className="navbar-toggler-icon" />
           </button>
         </div>
       </div>
