@@ -1,101 +1,151 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+	animation: App-logo-spin infinite 20s linear;
+	height: 40vmin;
+	pointer-events: none;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
 }
 
 .App-link {
-  color: #61dafb;
+	color: #61dafb;
 }
 
 .bd-placeholder-img {
-  font-size: 1.125rem;
-  text-anchor: middle;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
 .jumbotron {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  margin-bottom: 0;
-  background-color: #fff;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	margin-bottom: 0;
+	background-color: #fff;
 }
 @media (min-width: 768px) {
-  .jumbotron {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
-  }
+	.jumbotron {
+		padding-top: 6rem;
+		padding-bottom: 6rem;
+	}
 }
 
 .jumbotron p:last-child {
-  margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 .jumbotron-heading {
-  font-weight: 300;
+	font-weight: 300;
 }
 
 .jumbotron .container {
-  max-width: 40rem;
+	max-width: 40rem;
 }
 
 .py-5 {
-  padding-top: 0 !important;
+	padding-top: 0 !important;
 }
 
 .custom-navbar {
-  padding-bottom: 3rem;
-  padding-top: 1rem;
+	padding-bottom: 3rem;
+	padding-top: 1rem;
 }
 
 .card-price {
-  font-size: 1.1em;
-  font-weight: bold;
-  color: green;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: green;
 }
 
 .checked {
-  color: orange;
+	color: orange;
+}
+
+.rate {
+	/* position: relative; */
+	display: inline-block;
+	height: 46px;
+	padding: 0 10px;
+}
+.rate:not(:checked) > input {
+	position: absolute;
+	top: -9999px;
+}
+.rate:not(:checked) > label {
+	float: right;
+	width: 1em;
+	overflow: hidden;
+	white-space: nowrap;
+	cursor: pointer;
+	font-size: 30px;
+	color: #ccc;
+}
+.rate:not(:checked) > label:before {
+	content: "★ ";
+}
+.rate > input:checked ~ label {
+	color: #ffc700;
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+	color: #deb217;
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+	color: #c59b08;
+}
+
+.rating-form-group {
+	display: flex;
+	align-items: center;
+}
+
+.custom-control {
+	margin-bottom: 1rem;
+}
+
+p {
+	margin-block-end: 0;
 }
 
 footer {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 }
 
 footer p {
-  margin-bottom: 0.25rem;
+	margin-bottom: 0.25rem;
 }
 
 @media (min-width: 768px) {
-  .bd-placeholder-img-lg {
-    font-size: 3.5rem;
-  }
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
 }

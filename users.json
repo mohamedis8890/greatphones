@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Mo",
+      "email": "admin@greatphones.com",
+      "isAdmin": true,
+      "password": "123456"
+    },
+    {
+      "id": 1,
+      "name": "First User",
+      "email": "user1@example.com",
+      "isAdmin": false,
+      "password": "123456"
+    }
+  ]
+}

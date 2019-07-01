@@ -4,14 +4,14 @@
       "id": 0,
       "name": "EOS Phone",
       "vendor": {
-        "id": 0,
-        "name": "Kyocera"
+        "id": 1,
+        "name": "Motorolla"
       },
-      "isConcept": true,
-      "description": "Kyocera’s EOS folding concept phone incorporates a flexible OLED screen, changing its form from a clamshell into something resembling a wallet or clutch-purse.",
-      "price": "569.99",
+      "description": "Motorolla’s EOS folding phone (originally designed by Kyocera) incorporates a flexible EOS screen, changing its form from a clamshell into something resembling a wallet or clutch-purse.",
+      "isConcept": false,
+      "price": "587.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/kyocera_lexible.jpg",
-      "stars": "3.4"
+      "stars": "4"
     },
     {
       "id": 1,
@@ -46,8 +46,8 @@
         "id": 3,
         "name": "LG"
       },
-      "isConcept": false,
       "description": "Created by Andrew Zheng, the handset is a thin slider with a touch screen on board and a physical button keypad. The unusual shape of the LG Traveler phone was created for better grip and this aspect gets enhanced. Thanks to rubbers grips on the side.",
+      "isConcept": false,
       "price": "589.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_traveler.jpg",
       "stars": "3.45"
@@ -59,11 +59,11 @@
         "id": 23,
         "name": "Eclipse"
       },
-      "isConcept": false,
       "description": "Eclipse Intuit phone by Eddie Goh. It has the entire basic feature we’ve come to expect from our mobiles: powerful 5 megapixel camera with built-in software for editing and uploading pictures to photo album, slide-out touch keyboard with tactile feedback and a nice big touch screen front and center. What makes this concept unique is parts of the phone are made from a chemically based thin solar skin to charge the battery when it’s exposed to any kind of light.",
+      "isConcept": false,
       "price": "459.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/eclipseintuit.jpg",
-      "stars": "3.28"
+      "stars": "3"
     },
     {
       "id": 5,
@@ -85,11 +85,11 @@
         "id": 3,
         "name": "LG"
       },
-      "isConcept": false,
       "description": "The LG Flutter will have an opportunity to be featured in a future blockbuster movie. The device opens up like a fan, as you can see in the image above and has a flexible OLED touch screen display that scrolls radically.",
+      "isConcept": false,
       "price": "789.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_flutter.jpg",
-      "stars": "3.6"
+      "stars": "4"
     },
     {
       "id": 7,
@@ -98,8 +98,8 @@
         "id": 5,
         "name": "Nokia"
       },
-      "isConcept": false,
       "description": "The designer Mac Funamizu drew on the Nokia Aeon to design a phone he would like to have. Complete with Apple’s standard livery. Using a nondescript tactile feedback technology, its surface adapts to different purposes while the e-ink screen envelops the phone in graphics and information.",
+      "isConcept": false,
       "price": "659.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/nanokia.jpg",
       "stars": "3.85"
@@ -543,22 +543,18 @@
     {
       "id": 23,
       "name": "Eclipse"
-    }
-  ],
-  "users": [
-    {
-      "id": 0,
-      "name": "Mo",
-      "email": "admin@greatphones.com",
-      "isAdmin": true,
-      "password": "123456"
     },
     {
-      "id": 1,
-      "name": "First User",
-      "email": "user1@example.com",
-      "isAdmin": false,
-      "password": "123456"
+      "name": "posted vendor1",
+      "id": 25
+    },
+    {
+      "name": "posted vendor2",
+      "id": 26
+    },
+    {
+      "name": "posted vendor3",
+      "id": 27
     }
   ]
 }
