@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-export default function Thumbnail({ phone }) {
+export default function Thumbnail({ phone, user }) {
 	const starsArray = [
 		{ 1: false },
 		{ 2: false },
@@ -26,7 +26,7 @@ export default function Thumbnail({ phone }) {
 				<div className="card-body">
 					<div className="d-flex justify-content-between align-items-center">
 						<p className="card-text">{phone.name}</p>
-						<p className="card-text card-price">{phone.price}</p>
+						<p className="card-text card-price">${phone.price}</p>
 					</div>
 					<div>
 						{starsArray.map(star => {
@@ -51,12 +51,14 @@ export default function Thumbnail({ phone }) {
 							>
 								View
 							</Link>
-							<Link
-								to={"/edit-phone/" + phone.id}
-								className="btn btn-sm btn-outline-secondary"
-							>
-								Edit
-							</Link>
+							{user && (
+								<Link
+									to={"/edit-phone/" + phone.id}
+									className="btn btn-sm btn-outline-secondary"
+								>
+									Edit
+								</Link>
+							)}
 						</div>
 						<small className="text-muted">{phone.vendor.name}</small>
 					</div>

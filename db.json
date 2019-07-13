@@ -9,9 +9,9 @@
       },
       "description": "Motorolla’s EOS folding phone (originally designed by Kyocera) incorporates a flexible EOS screen, changing its form from a clamshell into something resembling a wallet or clutch-purse.",
       "isConcept": false,
-      "price": "587.99",
+      "price": "571.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/kyocera_lexible.jpg",
-      "stars": "4"
+      "stars": "3"
     },
     {
       "id": 1,
@@ -89,7 +89,7 @@
       "isConcept": false,
       "price": "789.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/lg_flutter.jpg",
-      "stars": "4"
+      "stars": "3"
     },
     {
       "id": 7,
@@ -555,6 +555,43 @@
     {
       "name": "posted vendor3",
       "id": 27
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Mo",
+      "email": "admin@greatphones.com",
+      "isAdmin": true,
+      "password": "123456"
+    },
+    {
+      "id": 1,
+      "name": "First User",
+      "email": "user1@example.com",
+      "isAdmin": false,
+      "password": "123456"
+    },
+    {
+      "name": "Mohamed Mahmoud",
+      "email": "mohamed.is8890@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "name": "Adam",
+      "email": "Adam@greatphones.com",
+      "password": "456789",
+      "isAdmin": false,
+      "id": 3
+    },
+    {
+      "name": "Mohamed Mahmoud",
+      "email": "mohamed.is8890@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": 4
     }
   ]
 }

@@ -90,7 +90,10 @@ export default class Album extends Component {
 			default:
 				break;
 		}
-		this.setState({ filteredPhones, currentPage: 1 });
+		this.setState({
+			filteredPhones,
+			currentPage: 1
+		});
 	};
 
 	handleSort = sortBy => {
@@ -121,7 +124,10 @@ export default class Album extends Component {
 				break;
 		}
 
-		this.setState({ filteredPhones, currentPage: 1 });
+		this.setState({
+			filteredPhones,
+			currentPage: 1
+		});
 	};
 
 	setDisplay = display => {
@@ -141,6 +147,8 @@ export default class Album extends Component {
 	};
 
 	render() {
+		const { user } = this.props;
+
 		const {
 			filteredPhones,
 			currentPage,
@@ -169,12 +177,12 @@ export default class Album extends Component {
 						<div className="row">
 							{display === "thumbnail" ? (
 								this.paginate(currentPage).map(phone => (
-									<Thumbnail key={phone.id} phone={phone} />
+									<Thumbnail key={phone.id} phone={phone} user={user} />
 								))
 							) : (
 								<div className="list-group col-md-12">
 									{this.paginate(currentPage).map(phone => (
-										<ListItem key={phone.id} phone={phone} />
+										<ListItem key={phone.id} phone={phone} user={user} />
 									))}
 								</div>
 							)}
