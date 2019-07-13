@@ -161,7 +161,7 @@ export default class Album extends Component {
 		} = this.state;
 		return (
 			<React.Fragment>
-				<Jumbotron />
+				<Jumbotron user={user} />
 				<div className="album py-5 bg-light">
 					<div className="container">
 						<NavBar

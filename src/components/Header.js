@@ -7,7 +7,7 @@ export default function Header({ user }) {
 	let welcomeMessage = "";
 
 	if (user) {
-		welcomeMessage = "Welcome, " + user.email.replace("@greatphones.com", "");
+		welcomeMessage = "Welcome, " + user.email.split("@")[0];
 	}
 
 	return (
@@ -73,11 +73,11 @@ export default function Header({ user }) {
 				</div>
 			</div>
 			<div className="navbar navbar-dark bg-dark shadow-sm">
-				<div className="container d-flex justify-content-between">
-					<a href="/" className="navbar-brand d-flex align-items-center">
+				<div id="top" className="container d-flex justify-content-between">
+					<Link to="/" className="navbar-brand d-flex align-items-center">
 						<img src="phone.png" alt="logo" width="24" height="24" />
 						<strong style={{ marginLeft: "10px" }}>Great Phones</strong>
-					</a>
+					</Link>
 					<button
 						className="navbar-toggler"
 						type="button"

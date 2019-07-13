@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { login } from "../services/authService";
+import { Redirect } from "react-router-dom";
+import { login, getCurrentUser } from "../services/authService";
 import "./LoginForm.css";
 
 const Joi = require("joi-browser");
@@ -78,6 +79,7 @@ export default class LoginForm extends Component {
 	};
 
 	render() {
+		if (getCurrentUser()) return <Redirect to="/" />;
 		const { data, errors } = this.state;
 		return (
 			<div className="login-body ">

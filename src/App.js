@@ -11,6 +11,7 @@ import NotFound from "./components/NotFound";
 import LoginForm from "./components/LoginForm";
 import RegisterForm from "./components/RegisterForm";
 import Logout from "./components/Logout";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 import "./App.css";
 
@@ -52,7 +53,7 @@ class App extends Component {
 								/>
 							)}
 						/>
-						<Route path="/edit-phone/:id" component={EditPhone} />
+						<ProtectedRoute path="/edit-phone/:id" component={EditPhone} />
 						<Route path="/phones/:id" component={PhoneDetails} />
 						<Route
 							path="/"

@@ -82,7 +82,6 @@ export default class RegisterForm extends Component {
 		try {
 			const { data: user } = { ...this.state };
 			await registerUser(this.mapToModel(user));
-
 			this.props.history.push("/");
 		} catch (ex) {
 			console.error(ex);
@@ -94,7 +93,6 @@ export default class RegisterForm extends Component {
 
 		const errors = this.validateAll();
 		this.setState({ errors: errors || {} });
-		console.log(errors);
 		if (errors) return;
 
 		this.doSubmit();
