@@ -20,8 +20,8 @@
         "id": 1,
         "name": "Motorolla"
       },
+      "description": "The Piccolo 1 cell phone received its design inspiration by Motorola, bringing a sexy and sleek concept that will definitely appeal to females.",
       "isConcept": false,
-      "description": "The Piccolo Concept 1 cell phone received its design inspiration by Motorola, bringing a sexy and sleek concept that will definitely appeal to females.",
       "price": "749.99",
       "imgUrl": "https://assets.hongkiat.com/uploads/futuristic-phones/motorolla_piccolo.jpg",
       "stars": "2.76"
@@ -606,6 +606,20 @@
       "password": "123456",
       "isAdmin": false,
       "id": 6
+    },
+    {
+      "name": "Abo Adam",
+      "email": "abo_adam@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": 7
+    },
+    {
+      "name": "Max",
+      "email": "max@blanck.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": 8
     }
   ]
 }
